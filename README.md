@@ -8,7 +8,7 @@ Backend Section Node.js / Rest API, Postgresql
 Clone the project
 
 ```bash
-  git clone https://github.com/dhatguy/PERN-Store.git
+  git clone https://github.com/enganasalsaadi/almajid_backend.git
 ```
 
 Go to the project directory
